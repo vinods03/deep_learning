@@ -10,4 +10,7 @@ SVM Classifier -> linear SVM Classifer -> kernel k neighbors classifier with hyp
 Adaboost classifier with hyper-parameter tuning 
 XGBoost Classifier with hyper-parameter tuning
 
-Note on Bias-Variance trade-off
+# CNN - Animal Multi Class Classification.ipynb
+Image Classification Problem 
+Includes Strided Convolution layer, GlobalMaxPooling / Flatten, Dense, Batch Normalization, Data Augmentation. 
+We also see the misclassified examples and predict the class given an image.
