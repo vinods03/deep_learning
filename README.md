@@ -18,3 +18,8 @@ We also see the misclassified examples and predict the class given an image.
 # CNN - Pneumonia detection - Binary Class Classification.ipynb
 Image Classification Problem - binary class
 Predict whether a patient has pneumonia or not using the Lung X-Ray Image
+
+# 44. Project - Stratified Shuffle Split.ipynb
+
+Predict the revenue grid of a bank customer given other parameters like income, occupation etc.
+Using StratifiedShuffleSplit instead of train_test_split to take care of class imbalance in the target variable
