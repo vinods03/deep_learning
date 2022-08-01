@@ -23,3 +23,12 @@ Predict whether a patient has pneumonia or not using the Lung X-Ray Image
 
 Predict the revenue grid of a bank customer given other parameters like income, occupation etc.
 Using StratifiedShuffleSplit instead of train_test_split to take care of class imbalance in the target variable
+
+# ANN_Housing_Price.ipynb
+
+Deep learning regression to predict the housing price. Improved Adjusted R-squared value from ~60% to ~90%
+One hot encoding for numeric values holding categorical info, scaling etc helped improve the model
+
+# CNN Celebrity Actors.ipynb
+
+Data augmentation and multi-layer neural network helped improve teh accuracy to 96%
