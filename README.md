@@ -32,3 +32,9 @@ One hot encoding for numeric values holding categorical info, scaling etc helped
 # CNN Celebrity Actors.ipynb
 
 Data augmentation and multi-layer neural network helped improve teh accuracy to 96%
+
+# CNN_Human_Action_Recognition.ipynb
+
+Accuracy good but validation accuracy low
+Tried many new options like regularizers to improve the model
+Also tried different options for image generator, number of layers in the neural network, learning rate etc.
