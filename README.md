@@ -11,11 +11,13 @@ Adaboost classifier with hyper-parameter tuning
 XGBoost Classifier with hyper-parameter tuning
 
 # CNN - Animal Multi Class Classification.ipynb
+
 Image Classification Problem - multiple classes
 Includes Strided Convolution layer, GlobalMaxPooling / Flatten, Dense, Batch Normalization, Data Augmentation. 
 We also see the misclassified examples and predict the class given an image.
 
 # CNN - Pneumonia detection - Binary Class Classification.ipynb
+
 Image Classification Problem - binary class
 Predict whether a patient has pneumonia or not using the Lung X-Ray Image
 
@@ -31,10 +33,17 @@ One hot encoding for numeric values holding categorical info, scaling etc helped
 
 # CNN Celebrity Actors.ipynb
 
-Data augmentation and multi-layer neural network helped improve teh accuracy to 96%
+Identify teh actor based on image.
+Data augmentation and multi-layer neural network helped improve the accuracy to 96%
 
 # CNN_Human_Action_Recognition.ipynb
 
+Identify the human action based on image.
 Accuracy good but validation accuracy low
 Tried many new options like regularizers to improve the model
 Also tried different options for image generator, number of layers in the neural network, learning rate etc.
+
+# CNN_Covid19.ipynb
+
+Multi-class classification problem.
+Based on lung X-ray, identify if the customer has Covid, Viral Pneumonia or is normal.
