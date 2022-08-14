@@ -47,3 +47,8 @@ Also tried different options for image generator, number of layers in the neural
 
 Multi-class classification problem.
 Based on lung X-ray, identify if the customer has Covid, Viral Pneumonia or is normal.
+
+# CNN_Weather.ipynb
+
+Multi-class classification problem.
+Determine if satellite image is cloudy / water / desert / green area
