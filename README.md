@@ -60,3 +60,7 @@ Spam detection using Python
 # NLP_9a_Python_project_Movie_Reviews.ipynb
 
 Move review classification using Python
+
+# NLP_9b_Pyspark_Project_Spam_Detection.ipynb
+
+Spam detection using Pyspark
