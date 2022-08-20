@@ -64,3 +64,7 @@ Move review classification using Python
 # NLP_9b_Pyspark_Project_Spam_Detection.ipynb
 
 Spam detection using Pyspark
+
+# CNN_Brain_Tumor_detection.ipynb
+
+Brain tumour detection using images. Was initially getting an f1-score of 0 for No brain tumour. Tried several options to bring f1-score of both yes and no, accuracy to ~80%
