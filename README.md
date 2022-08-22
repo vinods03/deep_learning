@@ -77,3 +77,7 @@ Classify Spotify reviews as positive or negative using Sentiment Analysis
 
 Classify Spotify reviews as positive or negative using feature extraction
 
+# NLP_15_Spotify_Reviews_using_Pyspark.ipynb
+
+Classify Spotify reviews as positive or negative using Pyspark feature extraction
+
