@@ -71,4 +71,9 @@ Brain tumour detection using images. Was initially getting an f1-score of 0 for 
 
 # NLP_13_Spotify_Reviews_using_Sentiment_Analysis.ipynb
 
-Classify reviews as positive or negative using Sentiment Analysis
+Classify Spotify reviews as positive or negative using Sentiment Analysis
+
+# NLP_14_Spotify_Reviews_using_Feature_Extraction.ipynb
+
+Classify Spotify reviews as positive or negative using feature extraction
+
