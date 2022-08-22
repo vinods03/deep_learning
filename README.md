@@ -68,3 +68,7 @@ Spam detection using Pyspark
 # CNN_Brain_Tumor_detection.ipynb
 
 Brain tumour detection using images. Was initially getting an f1-score of 0 for No brain tumour. Tried several options to bring f1-score of both yes and no, accuracy to ~80%
+
+# NLP_13_Spotify_Reviews_using_Sentiment_Analysis.ipynb
+
+Classify reviews as positive or negative using Sentiment Analysis
