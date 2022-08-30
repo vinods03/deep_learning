@@ -92,3 +92,7 @@ Classifying pro and anti brexit tweets using python feature extraction
 # NLP_18_Brexit_Tweets_Pro_and_Anti_using_Pyspark.ipynb
 
 Classifying pro and anti brexit tweets using Pyspark
+
+# CNN_Document_Classification.ipynb
+
+Document Classification as email, resume or scientific_publication using CNN
