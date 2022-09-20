@@ -96,3 +96,7 @@ Classifying pro and anti brexit tweets using Pyspark
 # CNN_Document_Classification.ipynb
 
 Document Classification as email, resume or scientific_publication using CNN
+
+# All_Regression_models_Housing_Rent.ipynb
+
+Multiple linear regression, Decision Tree, Random Forest, Hyper-parameter tuning, Adaboost, Deep Neural Network regression models tried out
