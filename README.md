@@ -33,7 +33,7 @@ One hot encoding for numeric values holding categorical info, scaling etc helped
 
 # CNN Celebrity Actors.ipynb
 
-Identify teh actor based on image.
+Identify the actor based on image.
 Data augmentation and multi-layer neural network helped improve the accuracy to 96%
 
 # CNN_Human_Action_Recognition.ipynb
@@ -96,6 +96,10 @@ Classifying pro and anti brexit tweets using Pyspark
 # CNN_Document_Classification.ipynb
 
 Document Classification as email, resume or scientific_publication using CNN
+
+# CNN_Glass_Bangles.ipynb
+
+Identify whether a glass banngle is broken, defective or good based on the image
 
 # All_Regression_models_Housing_Rent.ipynb
 
